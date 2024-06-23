@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: url(C:\Users\91917\Desktop\projects\VideoChat\client\src\assets\cool-background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
